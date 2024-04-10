@@ -11,6 +11,7 @@ const ShowBook = () => {
     let [loading, setLoading] = useState(false)
     let { id } = useParams()
 
+    // show book upon rendering of page
     useEffect(()=> {
         axios
         .get(`http://localhost:8000/books/${id}`)
