@@ -1,3 +1,8 @@
 // make delete book section
+    take id of the books
+    delete the book from the database 
 // make read book section
+    make api for finding the books id and show the book
 // make read specific book section
+    read the id the book
+    show the book 
