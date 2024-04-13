@@ -8,4 +8,6 @@
     show the book 
 
 // style the books section 
+    using tailwind css
+    showing all the list of the books 
 // update 
