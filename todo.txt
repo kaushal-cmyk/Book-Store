@@ -5,6 +5,7 @@
     make api for finding the books id and show the book
 // make read specific book section
     read the id the book
+    retrive the book from database 
     show the book 
 
 // style the books section 
